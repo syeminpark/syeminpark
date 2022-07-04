@@ -1,4 +1,4 @@
-### Hi. I'm Syemin Park 👋
+### Hi. I'm Syemin Park  🎮
 
 <div align="center">
   
