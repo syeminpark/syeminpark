@@ -3,7 +3,7 @@
 <div align="center">
   
  
-[![syemin's github stats](https://github-readme-stats.vercel.app/api?username=syeminpark)](https://github.com/syeminpark/github-readme-stats)
+[![syemin's github stats](https://github-readme-stats.vercel.app/api?username=syeminpark&show_icons=true&theme=calm)](https://github.com/syeminpark/github-readme-stats)
 
 I'm studying Digital Arts in Seoul Institute of The Arts. 
 
