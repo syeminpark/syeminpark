@@ -7,8 +7,9 @@
 
 I'm studying Digital Arts in Seoul Institute of The Arts. 
 
-I make projects that investigates the correlations & interactions between Computing Technology and Human Beings.
+I make projects that investigates the interactions between Computing Technology and Human Beings.
 
-
+Check My Website For More Info
+  https://syeminpark.com/
 
 
