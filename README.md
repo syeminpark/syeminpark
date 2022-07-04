@@ -5,7 +5,7 @@
  
 I'm studying Digital Arts in Seoul Institute of The Arts. 
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+  [![syemin's github stats](https://github-readme-stats.vercel.app/api?username=syeminpark)](https://github.com/syeminpark/github-readme-stats)
 
 
 <!--
