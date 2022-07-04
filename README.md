@@ -1,9 +1,7 @@
 ### Hi. I'm Syemin Park 👋
 
 <div align="center">
-[![Syemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeminpark&&show_icons=true&theme=calm)]
- 
-   [![Syemin's github stats](https://github-readme-stats.vercel.app/api?username=syeminpark&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Syemin's github stats](https://github-readme-stats.vercel.app/api?username=syeminpark&show_icons=true&theme=calm)]
  
 I'm studying Digital Arts in Seoul Institute of The Arts. 
 
