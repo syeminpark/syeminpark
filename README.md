@@ -7,7 +7,10 @@
 
 I'm studying Digital Arts in Seoul Institute of The Arts. 
 
-I make projects that investigates the correlations between computing technology and human beings. 
+I make projects that investigates the correlations & interactions between
+  
+Computing Technology and Human Beings in the form of MEDIA ART. 
+
 
 
 
