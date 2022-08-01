@@ -7,9 +7,6 @@
 
 I am a media artist interested in the interactions between the environment, computing technology and human beings.
 
-### Current Interests
-HCC (human centered computing)   
-HCI (human computer interaction)  
 
 
 Check My Website For More Info
