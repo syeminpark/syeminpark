@@ -7,7 +7,7 @@
 
 I'm studying Digital Arts in 'Seoul Institute of The Arts', in South Korea.
 
-My current interest is HCC(Human-Centered Computing) and I am active in the field of 'media arts'.
+My current interest is HCC (Human-Centered Computing) and I am active in the field of media arts
 
 Check My Website For More Info
   https://syeminpark.com/
