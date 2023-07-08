@@ -5,10 +5,6 @@
 
   ### Hi. I'm Syemin Park  🎮
 
-I am a media artist interested in the interactions between the environment, computing technology and human beings.
-
-
-
 Check My Website For More Info
   https://syeminpark.com/
 
